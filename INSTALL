@@ -1,0 +1,9 @@
+Building GOLDRUSHCOIN
+
+See doc/readme-qt.rst for instructions on building GOLDRUSHCOIN-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GOLDRUSHCOIN.
+
+See doc/build-*.txt for instructions on building goldrushcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GOLDRUSHCOIN.
